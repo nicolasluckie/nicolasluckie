@@ -1,4 +1,4 @@
-<h1 align="center"><code>Hello ☺️</code></h1>
+<h1 align="center"><code>Hello, World! ☺️🍁</code></h1>
 
 <p align="center">
   <a href="https://github.com/nicolasluckie"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nicolasluckie?style=social" /></a>
