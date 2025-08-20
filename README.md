@@ -1,9 +1,3 @@
-<h1 align="center">Hello, World! 🍀</h1>
-
-<p align="center">
-  <code>🌐: <a href="https://nicluckie.ca">https://nicluckie.ca</a></code><br>
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
