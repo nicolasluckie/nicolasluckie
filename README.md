@@ -24,11 +24,11 @@ Previously, I built an internal [web-based operations platform](https://nicolasl
 
 <hr/>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasluckie&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs" alt="nicolasluckie's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluckie&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="nicolasluckie's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=nicolasluckie&theme=shades-of-purple&hide_border=true" alt="nicolasluckie's GitHub Stats" />
-</p>
+</p>-->
 
 <!--
 
